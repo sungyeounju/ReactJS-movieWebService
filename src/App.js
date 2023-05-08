@@ -5,6 +5,7 @@ import {
 } from "react-router-dom";
 import Detail from "./routes/Detail";
 import Home from "./routes/Home";
+import "./styles.css";
 function App(){
   return <Router>
     <Switch>
